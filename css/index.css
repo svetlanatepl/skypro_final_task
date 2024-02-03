@@ -1,0 +1,42 @@
+.logo {
+	float: left;
+	text-align: center;
+}
+ nav {
+	 float: right;
+}
+ nav ul {
+	 margin: 0;
+	 padding: 0px 5px 0px 0px;
+	 list-style: none;
+}
+ nav li {
+	 display: inline-block;
+}
+ body {
+	 background: #000000;
+	 color: #fff;
+}
+ a {
+	 color: #808000
+}
+ h1 {
+	 color: #008080
+}
+ p {
+	 color: #008000
+}
+ ol {
+	 color: #008000
+}
+.container {
+	width: 1500px;
+	height: 500px;
+	background-image: linear-gradient(to right, #E2BCBB, #E4514A);
+}
+.col-1-2 {
+	width: 50px;
+	height: 50px;
+	border: 0px;
+	
+}
