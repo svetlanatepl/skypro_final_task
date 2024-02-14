@@ -1,36 +1,14 @@
 body {
-    font-size: 24px;
-}
-.green {
-    color: blue;
+    font-size: 18px;
 }
 .red {
-    color: green;
-}
-.blue {
     color: red;
 }
-li.green {
-    color: red;
+code {
+    font-weight: bold;
 }
-li.red {
-    color: blue;
-}
-li.blue {
-    color: green;
-}
-ul ol li.red {
-    color: cyan;
-}
-ul ol li.green {
-    color: orange;
-}
-ul ol li.blue {
-    color: magenta;
-}
-p.italic {
-    font-weight: italic;
-}
-p.bold {
-    font-style: bold;
-}
+ .image {
+    height: 50px;
+    width: 50px;
+    align-items: center;
+ }

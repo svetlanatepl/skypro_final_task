@@ -1,14 +1,12 @@
 body {
     font-size: 18px;
 }
-h1 {
-    color: blue;
-}
-h3 {
-    color: brown;
-}
-.image {
+ .image {
     height: 50px;
     width: 50px;
     align-items: center;
  }
+strong {
+    font-weight: bold;
+    color: rgb(160, 17, 160);
+    }

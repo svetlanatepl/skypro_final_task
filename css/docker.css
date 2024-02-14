@@ -7,3 +7,8 @@ h1 {
 h3 {
     color: fuchsia;
 }
+.image {
+    height: 50px;
+    width: 50px;
+    align-items: center;
+ }
